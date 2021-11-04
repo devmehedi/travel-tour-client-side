@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "title": "COLOMBIA",
+        "description": "This trip offers a fascinating combination of the region’s archaeological and cultural treasures. Retrace the steps of the Inca on a four-day trek along the Inca Trail to Machu Picchu.One of the world’s best-known hikes.",
+        "price": 1200,
+        "travel_style": "Active",
+        "service_level": "Standard",
+        "trip_type": "Small Group",
+        "img": "https://images.unsplash.com/photo-1622589222105-3e8af12b48ef?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=388&q=80"
+    },
+    {
+        "id": 2,
+        "title": "ARGENTINA",
+        "description": "It has become cliché to say that Argentina is as much European as it is Latin; yet to arrive in Buenos Aires and discover this is actually true still surprises.",
+        "price": 1400,
+        "travel_style": "Active",
+        "service_level": "Standard",
+        "trip_type": "Small Group",
+        "img": "https://images.unsplash.com/photo-1518563077661-23ad56581d77?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTc3fHx0cmF2ZWxsaW5nfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 3,
+        "title": "VIETNAM",
+        "description": "But today, the Vietnamese are focused on rocketing into the future. In this new era of confident self-determination the atmosphere is one of palpable optimism.",
+        "price": 1500,
+        "travel_style": "Active",
+        "service_level": "Standard",
+        "trip_type": "Small Group",
+        "img": "https://images.unsplash.com/photo-1581876804153-74295c0f59e7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjJ8fHRyYXZlbGxpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 4,
+        "title": "TANZANIA",
+        "description": "One of the most popular tourist destinations in Africa, Tanzania is well-established as one of the best wildlife-viewing destinations in the world.",
+        "price": 1100,
+        "travel_style": "Active",
+        "service_level": "Standard",
+        "trip_type": "Small Group",
+        "img": "https://images.unsplash.com/photo-1617170788758-725d9475a32b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fHRyYXZlbGxpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 5,
+        "title": "MOROCCO",
+        "description": "Morocco has variety and an exotic feel that has fascinated travellers since long before the modern traveller arrived. Morocco’s Amazing Diversity.",
+        "price": 1800,
+        "travel_style": "Active",
+        "service_level": "Standard",
+        "trip_type": "Small Group",
+        "img": "https://images.unsplash.com/photo-1622589222071-ab9792b5c903?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjl8fHRyYXZlbGxpbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 6,
+        "title": "ECUADOR",
+        "description": "Compact and diverse, Ecuador is like a tasting menu for South America. There are Andean mountains, complete with glacial volcanoes.",
+        "price": 2100,
+        "travel_style": "Active",
+        "service_level": "Standard",
+        "trip_type": "Small Group",
+        "img": "https://images.unsplash.com/photo-1566133930897-6636e8dc0f63?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzJ8fHRyYXZlbGxpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 7,
+        "title": "TOKYO",
+        "description": "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.",
+        "price": 2500,
+        "travel_style": "Active",
+        "service_level": "Standard",
+        "trip_type": "Small Group",
+        "img": "https://images.unsplash.com/photo-1499591934245-40b55745b905?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dHJhdmVsbGluZ3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 8,
+        "title": "NEY YORK",
+        "description": "Wherever you’re coming from is probably much, much lower than Cusco (11,000 feet) or Machu Picchu (just shy of 8,000 feet). Stay there for at least a day or two.",
+        "price": 3000,
+        "travel_style": "Active",
+        "service_level": "Standard",
+        "trip_type": "Small Group",
+        "img": "https://images.unsplash.com/photo-1516685304081-de7947d419d5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dHJhdmVsbGluZ3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 9,
+        "title": "ITALY",
+        "description": "The easiest way to get to from Cusco to Machu Picchu is to take the train to Aguas Calientes (the town located a few miles from the site).",
+        "price": 1700,
+        "travel_style": "Active",
+        "service_level": "Standard",
+        "trip_type": "Small Group",
+        "img": "https://images.unsplash.com/photo-1526772662000-3f88f10405ff?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8dHJhdmVsbGluZ3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 10,
+        "title": "DUBAI",
+        "description": "The other way to get from Cusco to Machu Picchu is to walk as part of a multi-day Machu Picchu tour. Thousands of people hike to Machu Picchu each year.",
+        "price": 2500,
+        "travel_style": "Active",
+        "service_level": "Standard",
+        "trip_type": "Small Group",
+        "img": "https://images.unsplash.com/photo-1617339860647-358f07e44823?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTN8fHRyYXZlbGxpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 11,
+        "title": "CHINA",
+        "description": "As you’ll see in the list below, every language has its own variation of how it explains and defines what wanderlust is. In English, wanderlust means to have a strong desire for or impulse to travel, wander and explore the world.",
+        "price": 1800,
+        "travel_style": "Active",
+        "service_level": "Standard",
+        "trip_type": "Small Group",
+        "img": "https://images.unsplash.com/photo-1617170788899-ef9587d6e63f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjN8fHRyYXZlbGxpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 12,
+        "title": "BANGLADESH",
+        "description": "Not all those who wander are lost, but all those who wander alone are definitely solivagants. From the Latin word solivagus, meaning lonely or solitary, solivagant describes anyone who enjoys meandering around new countries, alone, in order to take it all in.",
+        "price": 4000,
+        "travel_style": "Active",
+        "service_level": "Standard",
+        "trip_type": "Small Group",
+        "img": "https://images.unsplash.com/photo-1612900631300-7670fd57bae3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzR8fHRyYXZlbGxpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    }
+]
