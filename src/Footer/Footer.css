@@ -18,6 +18,8 @@
     color: lightseagreen;
 }
 
+/* Responsive */
+
 @media (max-width:700px) {
     .footer{
         display: block;
