@@ -1,11 +1,11 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyCBjQN7BNDhGscyyGVqSso7BaEDYEaDSyc",
-  authDomain: "unitravel-torism-agency.firebaseapp.com",
-  projectId: "unitravel-torism-agency",
-  storageBucket: "unitravel-torism-agency.appspot.com",
-  messagingSenderId: "493507373589",
-  appId: "1:493507373589:web:2664bb9724d0f417d7bc1c",
-  measurementId: "G-FJ0NFRY30Z"
+  apiKey: "AIzaSyCEei0lCfwoV0r0nlXT-JjRcXQ8_Er3lXo",
+  authDomain: "traveledor-authentication.firebaseapp.com",
+  projectId: "traveledor-authentication",
+  storageBucket: "traveledor-authentication.appspot.com",
+  messagingSenderId: "487582536000",
+  appId: "1:487582536000:web:f9a9ce6c7653a773daeaa5",
+  measurementId: "G-TT61Z1645H"
 };
 
 export default firebaseConfig;

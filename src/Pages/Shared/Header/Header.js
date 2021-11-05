@@ -2,7 +2,6 @@ import React from 'react';
 import { Button, Container, Nav, Navbar } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import useAuth from '../../../Hooks/useAuth';
-import logoImg from '../logo.jfif';
 import './Header.css'
 
 const Header = () => {
