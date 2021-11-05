@@ -32,7 +32,7 @@ const ServicesDetails = () => {
             .post("https://arcane-shore-17797.herokuapp.com/users", data)
             .then((res) => {
                 if (res.data.insertedId) {
-                    alert("Booking Succefull");
+                    alert("Booking Successful");
                     reset();
                 }
             });
